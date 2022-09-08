@@ -1,5 +1,9 @@
 ## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+My name is João Gonçalves De Macedo, I am 26 years old, and I am from Amares, Portugal 🇵🇹 
+
+I have recently finished a Master’s Degree in Software Engineering at the [University of Minho](https://www.uminho.pt/EN). With my dissertation research, WebAssembly became my main interest. Thus, learning Rust is one of my main goals in order to be part of WebAssembly’s future. I am not an expert. However, one of the most important skills I have learned at University is to be self-taught.
+
 - 🔭 I’m currently looking for my first job
 - 🌱 I’m currently learning Rust
 - 📫 Learn more about me at my [WebAssembly Blog](https://spin-deploy.joao-website.hippo.joaodemacedo.com/)
