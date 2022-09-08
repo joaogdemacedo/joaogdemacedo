@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Rust
 - 📫 Learn more about me at my [WebAssembly Blog](https://spin-deploy.joao-website.hippo.joaodemacedo.com/)
 
+![Profile views](https://gpvc.arturio.dev/joaogdemacedo)
+
 <!--
 **joaogdemacedo/joaogdemacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
