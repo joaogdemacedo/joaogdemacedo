@@ -1,6 +1,8 @@
-## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fexgXk0Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/grinning-face-with-big-eyes.gif" width="5%">
 
 My name is João Gonçalves De Macedo, I am 26 years old, and I am from Amares, Portugal 🇵🇹 
+
+<img src="https://i.giphy.com/media/lPoxtQlcX30doRbHTN/giphy.webp" width="20%">
 
 I have recently finished a Master’s Degree in Software Engineering at the [University of Minho](https://www.uminho.pt/EN). With my dissertation research, WebAssembly became my main interest. Thus, learning Rust is one of my main goals in order to be part of WebAssembly’s future. I am not an expert. However, one of the most important skills I have learned at University is to be self-taught.
 
