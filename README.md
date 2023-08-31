@@ -1,14 +1,8 @@
-## Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fexgXk0Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/grinning-face-with-big-eyes.gif" width="5%">
+👋 Hello! I'm João, a passionate software engineer with a keen interest in software energy consumption and WebAssembly. My journey has been marked by a drive to explore innovative solutions that bridge technology and sustainability.
 
-My name is João Gonçalves De Macedo, I am 26 years old, and I am from Amares, Portugal 🇵🇹 
+📚 During my tenure at [INESC/University of Minho], I delved deep into the realm of software energy consumption, leading the charge as the main author of three research papers in this field. This experience not only honed my research skills but also fueled my curiosity to explore the uncharted territories of technology.
 
-<img src="https://i.giphy.com/media/lPoxtQlcX30doRbHTN/giphy.webp" width="20%">
-
-I have recently finished a Master’s Degree in Software Engineering at the [University of Minho](https://www.uminho.pt/EN). With my dissertation research, WebAssembly became my main interest. Thus, learning Rust is one of my main goals in order to be part of WebAssembly’s future. I am not an expert. However, one of the most important skills I have learned at University is to be self-taught.
-
-- 🔭 I’m currently looking for my first job
-- 🌱 I’m currently learning Rust
-- 📫 Learn more about me at my [WebAssembly Blog](https://spin-deploy.joao-website.hippo.joaodemacedo.com/)
+🔍 My curiosity led me to the captivating world of WebAssembly and Rust. Eager to learn and innovate, I am determined to build a rewarding career centered around these cutting-edge technologies. The prospect of crafting efficient and high-performance solutions using WebAssembly and Rust drives me forward.
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/joaogdemacedo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/joaodemacedo134" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/joaodemacedo134" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
