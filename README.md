@@ -10,7 +10,7 @@
 
 ------------
 
-![Profile views](https://gpvc.arturio.dev/joaogdemacedo)
+![](https://komarev.com/ghpvc/?username=joaogdemacedo)
 
 <!--
 **joaogdemacedo/joaogdemacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
