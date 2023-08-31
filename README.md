@@ -1,6 +1,6 @@
 👋 Hello! I'm João, a passionate software engineer with a keen interest in software energy consumption and WebAssembly. My journey has been marked by a drive to explore innovative solutions that bridge technology and sustainability.
 
-📚 During my tenure at [INESC/University of Minho], I delved deep into the realm of software energy consumption, leading the charge as the main author of three research papers in this field. This experience not only honed my research skills but also fueled my curiosity to explore the uncharted territories of technology.
+📚 During my tenure at INESC TEC and University of Minho, I delved deep into the realm of software energy consumption, leading the charge as the main author of three research papers in this field. This experience not only honed my research skills but also fueled my curiosity to explore the uncharted territories of technology.
 
 🔍 My curiosity led me to the captivating world of WebAssembly and Rust. Eager to learn and innovate, I am determined to build a rewarding career centered around these cutting-edge technologies. The prospect of crafting efficient and high-performance solutions using WebAssembly and Rust drives me forward.
 
