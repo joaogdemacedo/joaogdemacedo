@@ -4,6 +4,8 @@
 
 🔍 My curiosity led me to the captivating world of WebAssembly and Rust. Eager to learn and innovate, I am determined to build a rewarding career centered around these cutting-edge technologies. The prospect of crafting efficient and high-performance solutions using WebAssembly and Rust drives me forward.
 
+*Always curious, forever learning.*
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/joaogdemacedo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/joaodemacedo134" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/joaodemacedo134" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
