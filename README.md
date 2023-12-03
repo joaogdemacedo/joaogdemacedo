@@ -1,29 +1,57 @@
-👋 Hello! I'm João, a passionate software engineer with a keen interest in software energy consumption and WebAssembly. My journey has been marked by a drive to explore innovative solutions that bridge technology and sustainability.
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm João!</h1></summary>
+  </ul>
+</div>
 
-📚 During my tenure at INESC TEC and the University of Minho, I delved deep into the realm of software energy consumption, leading the charge as the main author of three research papers in this field. This experience not only honed my research skills but also fueled my curiosity to explore the uncharted territories of technology.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🔍 My curiosity led me to the captivating world of WebAssembly and Rust, learning the ropes through open-source contributions. Check out my Blog to learn more about what I'm up to!
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-💬 My Blog - [Always curious, forever learning.](https://joaogdemacedo.hashnode.dev)
+<br><br>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/joaogdemacedo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/joaodemacedo134" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/joaodemacedo134" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 🎓 Master in Software Engineering, from University of Minho.
+- 👨‍💻 Currently working as a Junior DevOps Engineer at Celfocus.
+- 📝 Main author of 3 research papers on **WebAssembly** and green software.
+- 💾 I'm all about **WebAssembly** and **Rust**, learning the ropes through open-source contributions.
+- 📚 Currently learning **Rust** while contributing to [Spin](https://github.com/fermyon/spin), from Fermyon.
+- 🌐 Check out [My Blog](https://joaogdemacedo.hashnode.dev/) to learn more about what I'm up to!
+
+<be>
+<br><br>
+
+
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogdemacedo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="João Macedo's Github Stats">
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaogdemacedo&layout=compact&langs_count=8&title_color=7A7ADB&theme=algolia"/>
+
+</div>
+<br>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/joaodemacedo134/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/joaodemacedo134" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://joaogdemacedo.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+  
 </p>
 
-------------
-
-![](https://komarev.com/ghpvc/?username=joaogdemacedo)
-
-<!--
-**joaogdemacedo/joaogdemacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=joaogdemacedo&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
